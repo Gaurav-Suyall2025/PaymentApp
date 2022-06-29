@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "355180174702",
+    "firebase_url": "https://itc-limiteds-company-default-rtdb.firebaseio.com",
+    "project_id": "itc-limiteds-company",
+    "storage_bucket": "itc-limiteds-company.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355180174702:android:d132a6e2eb4a418898f57f",
+        "android_client_info": {
+          "package_name": "com.suyal.itclimiteds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355180174702-7hr91co3a0e1emnpl47k290e1207o0pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suyal.itclimiteds",
+            "certificate_hash": "1cea28ae926d97719ee332144fa1fe95190312c6"
+          }
+        },
+        {
+          "client_id": "355180174702-5oa5qt4tn015es11mr2pv9uvq96lnf0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCTPOpc5pM9Qv1xJCHK0qzTBGPwKLeFHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355180174702-5oa5qt4tn015es11mr2pv9uvq96lnf0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/black_shade_1"
+    android:orientation="vertical"
+    tools:context="com.suyal.itclimiteds.registration.SignUpActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:padding="10dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/profile_bg"
+        android:layout_marginRight="20dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_up"
+            android:textStyle="bold"
+            android:textSize="60sp"
+            />
+
+        <EditText
+            android:id="@+id/upusername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:ems="10"
+
+            android:hint="Enter your name"
+            android:inputType="textPersonName"
+            android:minHeight="48dp"
+            android:padding="15dp" />
+
+        <EditText
+            android:id="@+id/upemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:ems="10"
+            android:hint="Enter your email id"
+            android:inputType="textEmailAddress"
+            android:minHeight="48dp"
+            android:padding="15dp" />
+
+        <!--        <EditText-->
+        <!--            android:id="@+id/uppone"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_marginBottom="10dp"-->
+        <!--            android:ems="10"-->
+        <!--            android:background="@drawable/share_rounded_corner_with_border_text"-->
+        <!--            android:hint="Enter mobile number"-->
+        <!--            android:inputType="textPassword"-->
+        <!--            android:minHeight="48dp"-->
+        <!--            android:padding="15dp" />-->
+        <EditText
+            android:id="@+id/uppassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:ems="10"
+            android:hint="Enter password"
+            android:inputType="textPassword"
+            android:minHeight="48dp"
+            android:padding="15dp" />
+
+        <TextView
+            android:id="@+id/forgetpasswordup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:padding="3dp"
+            android:text="Forget Password" />
+
+        <Button
+            android:id="@+id/signupbtn"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:text="Sign Up"
+            android:textSize="20sp"
+            android:background="@drawable/share_rounded_corner_with_border"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="-------------------OR--------------------"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sign up using"
+            android:textSize="20sp"
+            android:layout_marginTop="5dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/ingoogle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="4dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/white"
+                android:drawableLeft="@drawable/ic_google_icon"
+                android:padding="13dp"
+                android:text="@string/google"
+                android:textColor="@color/black"
+                app:cornerRadius="20dp"
+                android:layout_marginEnd="4dp" />
+
+            <Button
+                android:id="@+id/upphoneNumber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/fb_color"
+                android:padding="0dp"
+                android:text="Phone Number"
+                android:textColor="@color/white"
+                app:cornerRadius="20dp"
+                android:layout_marginStart="4dp" />
+            <!--            android:drawableLeft="@drawable/ic_fb_icon"-->
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/upphone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:layout_marginEnd="10dp"
+                android:text="Don't have an account"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/logintxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/upphone"
+                android:text="Login"
+                android:textColor="#de1010"
+                android:textSize="20sp" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Britannia Distributor</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="please_enter_your_phone_number">Enter your Phone Number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="on_this_mobile_number">on this Mobile Number...</string>
+    <string name="inter_ads_unit_id">ca-app-pub-9411786402504458/8834223081</string>
+
+    <string name="logout_image_icon">Logout Image Icon</string>
+    <string name="sign_in_account">Sign in to your</string>
+    <string name="name">Name</string>
+    <string name="create_an">Create an</string>
+    <string name="sign_in_with_google">Sign in with google</string>
+    <string name="register_text"><u>Register Now</u></string>
+    <string name="sign_up">Sign Up</string>
+
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/drawable-v24/background_shape.xml" value="0.2185" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/drawable-v24/btn_background.xml" value="0.2555" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/drawable-v24/ic_fb_icon.xml" value="0.1" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/drawable-v24/ic_google_icon.xml" value="0.211" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/drawable-v24/share_rounded_corner_with_border.xml" value="0.1" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/drawable/btn_bg.xml" value="0.2545" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/drawable/ic_baseline_person.xml" value="0.2555" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/drawable/ic_phone_icon.xml" value="0.211" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/drawable/profile_bg.xml" value="0.2555" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/drawable/shape.xml" value="0.2555" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/drawable/tab_indicator.xml" value="0.151" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/about_us_fragment.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/activity_fragment_main.xml" value="0.14114583333333333" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/activity_get_number.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/activity_message.xml" value="0.15942028985507245" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/activity_payment_profile.xml" value="0.264" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/activity_verify_otp.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/dashboard_fragment.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/drawer_menu.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/fragment_sign_in.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/item_option.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/my_profile_fragment.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/nearby_kyc_fragment.xml" value="0.25" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/nearby_res_fragment.xml" value="0.12132725430597771" />
+        <entry key="..\:/Albatross/ITCLIMITEDS/app/src/main/res/layout/settings_fragment.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
